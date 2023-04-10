@@ -1,5 +1,10 @@
 # Dryuf Concurrent
 
+## Deprecated
+
+Moved to https://github.com/dryuf/dryuf-base/
+
+
 ## Lock free ListenableFuture / Future implementation
 
 The project implements java concurrent (Listenable) Future in very cheap and flexible way.
