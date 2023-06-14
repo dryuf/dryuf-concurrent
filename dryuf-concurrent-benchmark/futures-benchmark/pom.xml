@@ -24,7 +24,7 @@
 		<javac.version>1.8</javac.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
-		<guava.version>31.1-jre</guava.version>
+		<guava.version>32.0.0-jre</guava.version>
 		<spring.version>5.3.18</spring.version>
 		<jmh.version>1.35</jmh.version>
 	</properties>
